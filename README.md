@@ -44,3 +44,6 @@ This project explores the long-run optimal bet size under uncertainty through th
 - Incorporating Transactions costs (both fixed and percentage)
 - Graph of Bankroll Paths
 - Create a "multi-asset" universe with more than one bet option
+
+## Author
+Oscar Tan
